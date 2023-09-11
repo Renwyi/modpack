@@ -59,4 +59,4 @@ Sem matar players inativos
 
 Sem se usufruir de bugs do servidor
 
-Pode fazer farms contando não seja com spawners
+Pode fazer farms contando não seja com spawners.
