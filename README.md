@@ -33,6 +33,9 @@ Sem estourar chat de voz
 
 
 REGRAS DO SERVIDOR DO MINECRAFT
+
+
+
 Sem spam no chat
 
 Sem divulgação de conteúdos de outros servidores
