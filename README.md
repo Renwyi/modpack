@@ -10,7 +10,7 @@
 
 ## QSMP Network
 
-<a href="https://discord.gg/Sy3awpHNQ5"><img alt="Discord" /></a>
+<a href="https://discord.gg/Sy3awpHNQ5"></a>
 </p>
 
 
