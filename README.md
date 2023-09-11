@@ -20,7 +20,7 @@ Link Modpack github: https://github.com/Renwyi/modpack/releases/download/QSMP/QS
 Link modpack Mediafire: https://www.mediafire.com/file/mqbftyrlcqepz3x/modpack.zip/file
 
 
-IP: qsmp.pandaplus.cf:25565
+IP Servidor: qsmp.pandaplus.cf:25565
 
 # REGRAS DO SERVIDOR DO DISCORD
 Sem spam
