@@ -8,19 +8,19 @@
 
 <p align="center">
 
-## QSMP Network
+## HSMP Network
 
 Link Discord: https://discord.gg/Sy3awpHNQ5
 
 
-Link Modpack github: https://github.com/Renwyi/modpack/releases/download/QSMP/QSMP.zip
+Link Modpack github: https://github.com/Renwyi/modpack/releases/download/HSMP/HSMP.zip
 
 
 
 Link modpack Mediafire: https://www.mediafire.com/file/mqbftyrlcqepz3x/modpack.zip/file
 
 
-IP Servidor: qsmp.pandaplus.cf:25565
+IP Servidor: hsmp.pandaplus.cf:25565
 
 # REGRAS DO SERVIDOR DO DISCORD
 Sem spam
