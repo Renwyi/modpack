@@ -10,8 +10,7 @@
 
 ## QSMP Network
 
-<a href="https://discord.gg/Sy3awpHNQ5"></a>
-</p>
+Link Discord: https://discord.gg/Sy3awpHNQ5
 
 
 Regras do servidor
