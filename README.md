@@ -4,7 +4,7 @@
 | Prontos |QSMP|
 | ------------- | ------------- |
 | Modpack|✅|
-| Servidor|❎|
+| Servidor|✅|
 
 <p align="center">
 
