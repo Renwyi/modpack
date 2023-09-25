@@ -13,11 +13,11 @@
 Link Discord: https://discord.gg/Sy3awpHNQ5
 
 
-Link Modpack github: https://github.com/Renwyi/modpack/releases/download/HSMP/hsmp.1.zip
+Link Modpack github: https:https://github.com/Renwyi/modpack/releases/download/HSMP/hsmp.1.zip
 
 
 
-Link modpack Mediafire: https://www.mediafire.com/file/thb9mzooinoz2ss/hsmp_%25281%2529.zip/file
+Link modpack Mediafire: https://www.mediafire.com/file/1lddgjyycrxmnoe/hsmp+(1).zip/file
 
 IP Servidor: hsmp.pandaplus.cf:25565
 
