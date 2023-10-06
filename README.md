@@ -13,7 +13,7 @@
 Link Discord: https://discord.gg/Sy3awpHNQ5
 
 
-Link Modpack https://github.com/Renwyi/modpack/releases/download/HSMP/HSMP.zip
+Link Modpack https://github.com/Renwyi/modpack/releases/download/HSMP/HSMP.2.zip
 
 
 
