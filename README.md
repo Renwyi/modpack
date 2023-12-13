@@ -14,7 +14,7 @@ Link Discord: https://discord.gg/Sy3awpHNQ5
 
 Link Technic: https://www.technicpack.net/modpack/hsmp.1979373
 
-Link Modpack: https://github.com/Renwyi/modpack/releases/download/HSMP/HSMP.1.zip
+Link Modpack: https://github.com/Renwyi/modpack/releases/download/HSMP/HSMP.zip
 
 
 
