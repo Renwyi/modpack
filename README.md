@@ -1,7 +1,7 @@
 
 
 
-| Prontos |QSMP|
+| Prontos |HSMP|
 | ------------- | ------------- |
 | Modpack|✅|
 | Servidor|✅|
