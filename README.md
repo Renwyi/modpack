@@ -18,7 +18,7 @@ Link Modpack: https://github.com/Renwyi/modpack/releases/download/HSMP/HSMP.zip
 
 
 
-IP Servidor: hsmp.pandaplus.cf:25565
+IP Servidor: hsmp.hostpanda.tech:25565
 
 # REGRAS DO SERVIDOR DO DISCORD
   Respeite o TOS do Discord : https://discord.com/terms
